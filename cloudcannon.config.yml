@@ -3,7 +3,7 @@ paths:
   uploads: uploads
   static: ''
 collections_config:
-  pages:
+  Animated:
     path: ''
     icon: wysiwyg
     disable_url: false
