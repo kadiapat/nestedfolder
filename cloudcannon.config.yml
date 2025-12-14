@@ -7,5 +7,5 @@ markdown:
   options: {}
 collections_config:
   animated_design:
-    path: animated/design
+    path: animated/design/
     icon: animated_images
