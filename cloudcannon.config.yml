@@ -14,4 +14,4 @@ timezone: Etc/UTC
 static_site_generator: none
 build:
   command: echo "Serving static files directly"
-output_path: animated
+output_path: animated/design
