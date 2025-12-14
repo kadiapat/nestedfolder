@@ -1,5 +1,5 @@
 collections_config:
-  residential:
+  animated:
     path: animated
     icon: camera
     url: /[slug]
