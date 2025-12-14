@@ -10,6 +10,13 @@ collections_config:
     disable_add: false
     disable_add_folder: false
     disable_file_actions: false
+  animated_design:
+    path: animated/design
+    icon: animated_images
+    disable_url: false
+    disable_add: false
+    disable_add_folder: false
+    disable_file_actions: false
 timezone: Etc/UTC
 static_site_generator: none
 build:
